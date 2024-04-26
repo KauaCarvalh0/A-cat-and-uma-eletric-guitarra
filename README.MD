@@ -20,3 +20,5 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato!
 
 Obrigado pela visita! 🙌
+=======
+
