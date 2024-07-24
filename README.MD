@@ -10,7 +10,7 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 
 ## Meus projetos 📓
 
-- [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e eu estou adorando programar Python(igual tocar guitarra)!🎸🎶
+- [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e eu estou adorando programar Python(igual tocar guitarra 🎸⋆⭒˚.⋆ )!
 
 ![alt text](image.png)
 
@@ -19,6 +19,6 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - [Twitter (X)](https://x.com/KauCarv75289759?t=vO8qfqvkV7c4N25BKN9cbw&s=09): Veja minhas últimas atualizações.🌐
 - [Instagram](https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy): Algumas fotos! 🤳
 
-Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato!
+Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato! ALÍAS EU AMO JOVEM DIONISIO!!! 🐢🪑
 
 Obrigado pela visita! 🙌
