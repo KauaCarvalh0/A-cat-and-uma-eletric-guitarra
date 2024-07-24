@@ -13,17 +13,28 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - *Back-end*: Tenho experiência com linguagens como Python, Java, entre outras.
 - *Projetos Open Source*: Sou fã de contribuir para a comunidade de código aberto.
 
+## Experiência Profissional e Habilidades 🔧
+
+- **Cabeamento de Rede**: Realizei projetos de cabeamento estruturado para redes locais. 🚩
+- **Levantamento de Requisitos**: Experiência em levantamento e análise de requisitos para projetos de TI. 📈
+- **Lógica de Programação e Algoritmos**: Forte habilidade em lógica de programação e desenvolvimento de algoritmos. 🧠
+- **Redes de Computadores**: Conhecimento sólido em configuração e administração de redes de computadores. ⌨🖱
+- **Criação de Perfil Profissional no GitHub**: Desenvolvi um perfil no GitHub para destacar meus projetos e colaborações. ✨
+- **Orçamento Estrutura de Redes**: Participei na elaboração de orçamentos para infraestruturas de redes corporativas. 🌐
+- **Sistemas Operacionais**: Experiência em instalação e configuração de diversos sistemas operacionais. 🖥
+- **Instalação de Máquinas Operacionais**: Realizei instalação e configuração de máquinas operacionais em ambientes de produção. 🤖
+
 ## Meus projetos 📓
 
-- [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e eu estou adorando programar Python (igual tocar guitarra 🎸⋆⭒˚.⋆ )!
+- [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e estou adorando programar Python (igual tocar guitarra 🎸⋆⭒˚.⋆ )!
 
 ![alt text](image.png)
 
 ## Como me encontrar 🔍
 
-- [Twitter (X)](https://x.com/KauCarv75289759?t=vO8qfqvkV7c4N25BKN9cbw&s=09): Veja minhas últimas atualizações.🌐
+- [Twitter (X)](https://x.com/KauCarv75289759?t=vO8qfqvkV7c4N25BKN9cbw&s=09): Veja minhas últimas atualizações. 🌐
 - [Instagram](https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy): Algumas fotos! 🤳
 
-Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato!
+Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato! ALÍAS, AMO JOVEM DIONISIO!!! 🐢🪑
 
 Obrigado pela visita! 🙌
