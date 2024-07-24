@@ -5,12 +5,17 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 ## O que eu faço ✍
 
 - *Desenvolvimento Web*: Estou aprendendo a trabalhar com HTML, CSS, JavaScript e diversos frameworks modernos.
-- *Back-end*: Estou tendo experiência com linguagens como Python, Java, ou outras de sua preferência.
+- *Back-end*: Tenho experiência com linguagens como Python, Java, entre outras.
 - *Projetos Open Source*: Sou fã de contribuir para a comunidade de código aberto.
+
+## Certificados 🎓
+
+- **Python**: Concluí o curso de Python avançado pela Udemy, aprimorando habilidades em desenvolvimento e análise de dados.
+- **Privacidade e Proteção de Dados (LGPD)**: Certificado de curso sobre os princípios e práticas da LGPD, essencial para a conformidade com a legislação atual.
 
 ## Meus projetos 📓
 
-- [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e eu estou adorando programar Python(igual tocar guitarra 🎸⋆⭒˚.⋆ )!
+- [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e eu estou adorando programar Python (igual tocar guitarra 🎸⋆⭒˚.⋆ )!
 
 ![alt text](image.png)
 
@@ -19,6 +24,6 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - [Twitter (X)](https://x.com/KauCarv75289759?t=vO8qfqvkV7c4N25BKN9cbw&s=09): Veja minhas últimas atualizações.🌐
 - [Instagram](https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy): Algumas fotos! 🤳
 
-Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato! ALÍAS EU AMO JOVEM DIONISIO!!! 🐢🪑
+Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato!
 
 Obrigado pela visita! 🙌
