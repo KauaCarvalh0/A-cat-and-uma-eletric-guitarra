@@ -2,16 +2,16 @@
 
 Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos pessoais e colaborativos. Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades. 👤💻
 
+## Certificados 🎓
+
+- **Python**: Concluí o curso de Python avançado pela Udemy, aprimorando habilidades em desenvolvimento e análise de dados. 👨‍💻
+- **Privacidade e Proteção de Dados (LGPD)**: Certificado de curso sobre os princípios e práticas da LGPD, essencial para a conformidade com a legislação atual. 🔐
+
 ## O que eu faço ✍
 
 - *Desenvolvimento Web*: Estou aprendendo a trabalhar com HTML, CSS, JavaScript e diversos frameworks modernos.
 - *Back-end*: Tenho experiência com linguagens como Python, Java, entre outras.
 - *Projetos Open Source*: Sou fã de contribuir para a comunidade de código aberto.
-
-## Certificados 🎓
-
-- **Python**: Concluí o curso de Python avançado pela Udemy, aprimorando habilidades em desenvolvimento e análise de dados.
-- **Privacidade e Proteção de Dados (LGPD)**: Certificado de curso sobre os princípios e práticas da LGPD, essencial para a conformidade com a legislação atual.
 
 ## Meus projetos 📓
 
