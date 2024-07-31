@@ -1,7 +1,7 @@
 # Olá, bem-vindo ao meu perfil no GitHub! 👋😺
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/38df5d38-4f64-4a67-87f3-708f5c4b41a9" height="300"/>
+    <img src="https://github.com/user-attachments/assets/38df5d38-4f64-4a67-87f3-708f5c4b41a9" height="250"/>
 </div>
 
 Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos pessoais e colaborativos. Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades. 👤💻
