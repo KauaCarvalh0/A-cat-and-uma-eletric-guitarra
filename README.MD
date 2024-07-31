@@ -5,7 +5,6 @@
 </div>
 
 #
-
 Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos pessoais e colaborativos. Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades. 👤💻
 
 ## Certificados 🎓
