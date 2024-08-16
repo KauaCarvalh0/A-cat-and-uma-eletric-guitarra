@@ -28,6 +28,10 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - **Sistemas Operacionais**: Experiência em instalação e configuração de diversos sistemas operacionais. 🖥
 - **Instalação de Máquinas Operacionais**: Realizei instalação e configuração de máquinas operacionais em ambientes de produção. 🤖
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/bde5994f-4edf-4cab-9b7e-36a28e328087" height="300"/>
+</div>
+
 ## Meus projetos 📓
 
 - [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e estou adorando programar Python (igual tocar guitarra 🎸⋆⭒˚.⋆ )!
@@ -43,7 +47,6 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 <div align="left">
   <a href="https://www.youtube.com/@garotowolf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-    Veja minhas últimas atualizações. 🌐
   </a>
 </div>
 
@@ -51,18 +54,13 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 <div align="left">
   <a href="https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=purple&logoColor=white&labelColor=purple&style=for-the-badge" height="31" alt="instagram logo"  />
-Algumas fotos! 🤳
 
   </a>
 </div>
-
-
-- [Twitter (X)](https://x.com/KauCarv75289759?t=vO8qfqvkV7c4N25BKN9cbw&s=09): Veja minhas últimas atualizações. 🌐
-- [Instagram](https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy): Algumas fotos! 🤳
 
 Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato! ALIÁS, AMO JOVEM DIONISIO!!! 🐢🪑
 
 Obrigado pela visita! 🙌
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/edf716ee-3760-4376-94fb-e10fb8c5b1c3" height="250"/>
+    <img src="https://github.com/user-attachments/assets/edf716ee-3760-4376-94fb-e10fb8c5b1c3" height="300"/>
 </div>
