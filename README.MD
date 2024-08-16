@@ -17,6 +17,10 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - *Back-end*: Tenho experiência com linguagens como Python, Java, entre outras.
 - *Projetos Open Source*: Sou fã de contribuir para a comunidade de código aberto.
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/bde5994f-4edf-4cab-9b7e-36a28e328087" height="200"/>
+</div>
+
 ## Experiência Profissional e Habilidades 🔧
 
 - **Cabeamento de Rede**: Realizei projetos de cabeamento estruturado para redes locais. 🚩
@@ -27,10 +31,6 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - **Orçamento Estrutura de Redes**: Participei na elaboração de orçamentos para infraestruturas de redes corporativas. 🌐
 - **Sistemas Operacionais**: Experiência em instalação e configuração de diversos sistemas operacionais. 🖥
 - **Instalação de Máquinas Operacionais**: Realizei instalação e configuração de máquinas operacionais em ambientes de produção. 🤖
-
-<div align="right">
-    <img src="https://github.com/user-attachments/assets/bde5994f-4edf-4cab-9b7e-36a28e328087" height="200"/>
-</div>
 
 ## Meus projetos 📓
 
