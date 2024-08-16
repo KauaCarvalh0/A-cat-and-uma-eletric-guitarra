@@ -28,8 +28,8 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - **Sistemas Operacionais**: Experiência em instalação e configuração de diversos sistemas operacionais. 🖥
 - **Instalação de Máquinas Operacionais**: Realizei instalação e configuração de máquinas operacionais em ambientes de produção. 🤖
 
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/bde5994f-4edf-4cab-9b7e-36a28e328087" height="300"/>
+<div align="right">
+    <img src="https://github.com/user-attachments/assets/bde5994f-4edf-4cab-9b7e-36a28e328087" height="200"/>
 </div>
 
 ## Meus projetos 📓
