@@ -33,8 +33,8 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e estou adorando programar Python (igual tocar guitarra 🎸⋆⭒˚.⋆ )!
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/7189df6e-3ddb-4d5b-afd5-ce82444f3cae" height="250"/>
-    <img src="https://github.com/user-attachments/assets/b9d8e1e6-4539-478d-9e09-cf540e8980a2" height="250"/>
+    <img src="https://github.com/user-attachments/assets/7189df6e-3ddb-4d5b-afd5-ce82444f3cae" height="400"/>
+    <img src="https://github.com/user-attachments/assets/b9d8e1e6-4539-478d-9e09-cf540e8980a2" height="400"/>
 
 </div>
 
