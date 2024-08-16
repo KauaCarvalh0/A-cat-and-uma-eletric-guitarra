@@ -44,3 +44,7 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato! ALIÁS, AMO JOVEM DIONISIO!!! 🐢🪑
 
 Obrigado pela visita! 🙌
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/5d99051b-a118-4821-af44-88c14916bef0" height="250"/>
+</div>
