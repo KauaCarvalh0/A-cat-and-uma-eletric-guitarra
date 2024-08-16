@@ -45,6 +45,6 @@ Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar
 
 Obrigado pela visita! 🙌
 
-<div align="center">
+<div align="right">
     <img src="https://github.com/user-attachments/assets/4df4e3c8-1f1d-48a1-bd4a-9de3d752f99b" height="250"/>
 </div>
