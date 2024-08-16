@@ -40,6 +40,23 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 
 ## Como me encontrar 🔍
 
+<div align="left">
+  <a href="https://www.youtube.com/@garotowolf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    Veja minhas últimas atualizações. 🌐
+  </a>
+</div>
+
+    
+<div align="left">
+  <a href="https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=purple&logoColor=white&labelColor=purple&style=for-the-badge" height="31" alt="instagram logo"  />
+Algumas fotos! 🤳
+
+  </a>
+</div>
+
+
 - [Twitter (X)](https://x.com/KauCarv75289759?t=vO8qfqvkV7c4N25BKN9cbw&s=09): Veja minhas últimas atualizações. 🌐
 - [Instagram](https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy): Algumas fotos! 🤳
 
