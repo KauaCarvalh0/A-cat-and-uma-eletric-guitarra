@@ -45,6 +45,7 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 ## Como me encontrar 🔍
 
 <div align="left">
+
   <a href="https://www.youtube.com/@garotowolf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
@@ -57,6 +58,7 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 
   </a>
 </div>
+
 
 Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato! ALIÁS, AMO JOVEM DIONISIO!!! 🐢🪑
 
