@@ -23,6 +23,7 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - **Orçamento Estrutura de Redes**: Participei na elaboração de orçamentos para infraestruturas de redes corporativas. 🌐
 - **Sistemas Operacionais**: Experiência em instalação e configuração de diversos sistemas operacionais. 🖥
 - **Instalação de Máquinas Operacionais**: Realizei instalação e configuração de máquinas operacionais em ambientes de produção. 🤖
+- **Inglês Básico: Compreensão básica de inglês, suficiente para leitura e comunicação escrita. 📚
 
 ## Meus projetos 📓
 
