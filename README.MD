@@ -1,8 +1,4 @@
-# Olá, bem-vindo ao meu repositório no GitHub! 👋😺
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/38df5d38-4f64-4a67-87f3-708f5c4b41a9" height="200"/>
-</div>
+# Olá, bem-vindo ao meu repositório no GitHub! 👋
 
 Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos pessoais e colaborativos. Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades. 👤💻
 
@@ -17,10 +13,6 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 - *Back-end*: Tenho experiência com linguagens como Python, Java, entre outras.
 - *Projetos Open Source*: Sou fã de contribuir para a comunidade de código aberto.
 
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/bde5994f-4edf-4cab-9b7e-36a28e328087" height="200"/>
-</div>
-
 ## Experiência Profissional e Habilidades 🔧
 
 - **Cabeamento de Rede**: Realizei projetos de cabeamento estruturado para redes locais. 🚩
@@ -34,13 +26,7 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 
 ## Meus projetos 📓
 
-- [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e estou adorando programar Python (igual tocar guitarra 🎸⋆⭒˚.⋆ )!
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/7189df6e-3ddb-4d5b-afd5-ce82444f3cae" height="300"/>
-    <img src="https://github.com/user-attachments/assets/b9d8e1e6-4539-478d-9e09-cf540e8980a2" height="300"/>
-
-</div>
+- [Projeto Principal]: Estou estudando desenvolvimento de sistemas, atualmente aprendendo a linguagem Python e estou adorando programar Python!
 
 ## Como me encontrar 🔍
 
@@ -63,6 +49,3 @@ Meu nome é Kauã Carvalho, um desenvolvedor apaixonado por tecnologia e program
 Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato! ALIÁS, AMO JOVEM DIONISIO!!! 🐢🪑
 
 Obrigado pela visita! 🙌
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/edf716ee-3760-4376-94fb-e10fb8c5b1c3" height="300"/>
-</div>
